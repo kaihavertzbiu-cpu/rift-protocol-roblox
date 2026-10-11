@@ -17,16 +17,6 @@
       "sha256": "bca242868b4ba7cd3ed9a4ae09196d7ecf72d3b5fca0f6a4a7ea5178a6a3caeb"
     },
     {
-      "file": "build/RIFT_PROTOCOL_EDITED.rbxlx",
-      "bytes": 951348,
-      "sha256": "2b4ba57c0f45f2965311374ebc3ab738d4503dca5cca106bf0d611ce7098f32d"
-    },
-    {
-      "file": "docs/promotional-art.webp",
-      "bytes": 275546,
-      "sha256": "346ae24d7e1ef5bb715fa7511ede5f8ab3679746f3cc504085d40e1061324d75"
-    },
-    {
       "file": "README.md",
       "bytes": 2023,
       "sha256": "fed828657d722b28ab0728d82847d00f74ae34ee1491bfcc56aa486ca692cdb1"
@@ -35,6 +25,11 @@
       "file": "RIFT_PROTOCOL_WORKING.rbxlx",
       "bytes": 933794,
       "sha256": "a09eb64f1a2fe6fb2c72d709d837df3fb36bf6deb2aa9b109316a62cab812a65"
+    },
+    {
+      "file": "docs/promotional-art.webp",
+      "bytes": 275546,
+      "sha256": "346ae24d7e1ef5bb715fa7511ede5f8ab3679746f3cc504085d40e1061324d75"
     },
     {
       "file": "scripts/build.py",
