@@ -1,0 +1,130 @@
+{
+  "version": "2026-10-11",
+  "files": [
+    {
+      "file": ".gitattributes",
+      "bytes": 92,
+      "sha256": "14f058476ba7e2a3dde7201f8fb02e62edf1aee579d5f9db83eefb50fa1c3b5e"
+    },
+    {
+      "file": ".gitignore",
+      "bytes": 104,
+      "sha256": "859f56df14ec807b6f5c9a85de89b815734796f396977e2cc795912aaef28a30"
+    },
+    {
+      "file": "ATTRIBUTION.md",
+      "bytes": 435,
+      "sha256": "bca242868b4ba7cd3ed9a4ae09196d7ecf72d3b5fca0f6a4a7ea5178a6a3caeb"
+    },
+    {
+      "file": "build/RIFT_PROTOCOL_EDITED.rbxlx",
+      "bytes": 951348,
+      "sha256": "2b4ba57c0f45f2965311374ebc3ab738d4503dca5cca106bf0d611ce7098f32d"
+    },
+    {
+      "file": "docs/promotional-art.webp",
+      "bytes": 275546,
+      "sha256": "346ae24d7e1ef5bb715fa7511ede5f8ab3679746f3cc504085d40e1061324d75"
+    },
+    {
+      "file": "README.md",
+      "bytes": 2023,
+      "sha256": "fed828657d722b28ab0728d82847d00f74ae34ee1491bfcc56aa486ca692cdb1"
+    },
+    {
+      "file": "RIFT_PROTOCOL_WORKING.rbxlx",
+      "bytes": 933794,
+      "sha256": "a09eb64f1a2fe6fb2c72d709d837df3fb36bf6deb2aa9b109316a62cab812a65"
+    },
+    {
+      "file": "scripts/build.py",
+      "bytes": 788,
+      "sha256": "5c5a0980ea98e18ed22c1ba5dbc8bd808e76d061c974acc60ef49bc178c30e85"
+    },
+    {
+      "file": "scripts/source-map.json",
+      "bytes": 3558,
+      "sha256": "1e5c16d5986c175d525fad425e4667d9678c72b36b0de9c4173f6cae26cf2720"
+    },
+    {
+      "file": "src/ReplicatedStorage/Config/BalanceConfig.lua",
+      "bytes": 325,
+      "sha256": "3a5dab1064a286a557efcb63b8096fba91ec9c13f13b9518f08738e9214898db"
+    },
+    {
+      "file": "src/ReplicatedStorage/Config/EnemyConfig.lua",
+      "bytes": 766,
+      "sha256": "765abfcc3682d7610ee6cb09587f0f4c9dc2042218ca9b93a60342ce383d7898"
+    },
+    {
+      "file": "src/ReplicatedStorage/Config/PlayerConfig.lua",
+      "bytes": 190,
+      "sha256": "0e2592cf12e7b143711dcb383a3fb155ee9e2ba01b48760e68b17c7d6cda2542"
+    },
+    {
+      "file": "src/ReplicatedStorage/Config/SkillConfig.lua",
+      "bytes": 1048,
+      "sha256": "ac51a950214e6caf39bcaf2347cea19e9a68b4a881011a4dd40cb6ce00654382"
+    },
+    {
+      "file": "src/ReplicatedStorage/RIFT/Config/Balance.lua",
+      "bytes": 160,
+      "sha256": "911a8c40d988fc8021eaaa866aafc80de0c58bbf908ccf397e9fb88d7f8eefa1"
+    },
+    {
+      "file": "src/ReplicatedStorage/RIFT/Config/Enemies.lua",
+      "bytes": 905,
+      "sha256": "3dfdb3e89e292aaab848187d6266d7bed3aea7de3aa8bf4632e59c0ab095682c"
+    },
+    {
+      "file": "src/ReplicatedStorage/RIFT/Config/Game.lua",
+      "bytes": 1785,
+      "sha256": "64f2c757a34b8223d0cd5f73392dc5d1d9315bc0a2b3b19e1737158c3dc0868f"
+    },
+    {
+      "file": "src/ReplicatedStorage/RIFT/Config/Player.lua",
+      "bytes": 305,
+      "sha256": "7b76b0f21855ac424bb44e44786f623b94af0055efe5240debe69395e2fe8bd8"
+    },
+    {
+      "file": "src/ReplicatedStorage/RIFT/Config/Progression.lua",
+      "bytes": 706,
+      "sha256": "614eecac5824a688d0cf05a61056617c6104b7e5246a552d7378f15dd09cede7"
+    },
+    {
+      "file": "src/ReplicatedStorage/RIFT/Config/Skills.lua",
+      "bytes": 907,
+      "sha256": "0ceb01cda5c73da0b3185d98abc9f90a8b89f96e0af9f2309fb9db0f3a2e915d"
+    },
+    {
+      "file": "src/ServerScriptService/Bootstrap.lua",
+      "bytes": 6111,
+      "sha256": "ee6208c2460fe0ee51c6c1f56e8966c9a347a1e429d7fed0ef039b564ce0436a"
+    },
+    {
+      "file": "src/ServerScriptService/CombatServer.lua",
+      "bytes": 5718,
+      "sha256": "8d94f04e2d729260ae333880419c899acf305db7484b81a4b3961e0271e4bda5"
+    },
+    {
+      "file": "src/ServerScriptService/RIFT_Server.lua",
+      "bytes": 108802,
+      "sha256": "961f5acd1d7000e050d3ed4fb09705bd2a23b59fd07a53651bb2d85364e74f41"
+    },
+    {
+      "file": "src/StarterPlayer/StarterPlayerScripts/CombatClient.lua",
+      "bytes": 778,
+      "sha256": "7579a93246b71f76654a211d01c5433590ed2561074658e41e1906d4c264474a"
+    },
+    {
+      "file": "src/StarterPlayer/StarterPlayerScripts/PortfolioShowcase.lua",
+      "bytes": 8360,
+      "sha256": "dcb5bb0a690d04b533562ed44025c3312e696429d8046d7f473e3f461a9b98dc"
+    },
+    {
+      "file": "src/StarterPlayer/StarterPlayerScripts/RIFT_Client.lua",
+      "bytes": 127785,
+      "sha256": "37af3bd09a1ad7f7994ed01290d97de3385b769a73a2eef840c1812c07fca1de"
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+[
+  {
+    "file": "src/StarterPlayer/StarterPlayerScripts/CombatClient.lua",
+    "indices": [
+      16,
+      0,
+      0
+    ],
+    "instancePath": "StarterPlayer/StarterPlayerScripts/CombatClient",
+    "class": "LocalScript"
+  },
+  {
+    "file": "src/StarterPlayer/StarterPlayerScripts/RIFT_Client.lua",
+    "indices": [
+      16,
+      0,
+      1
+    ],
+    "instancePath": "StarterPlayer/StarterPlayerScripts/RIFT_Client",
+    "class": "LocalScript"
+  },
+  {
+    "file": "src/StarterPlayer/StarterPlayerScripts/PortfolioShowcase.lua",
+    "indices": [
+      16,
+      0,
+      2
+    ],
+    "instancePath": "StarterPlayer/StarterPlayerScripts/PortfolioShowcase",
+    "class": "LocalScript"
+  },
+  {
+    "file": "src/ReplicatedStorage/Config/BalanceConfig.lua",
+    "indices": [
+      38,
+      0,
+      0
+    ],
+    "instancePath": "ReplicatedStorage/Config/BalanceConfig",
+    "class": "ModuleScript"
+  },
+  {
+    "file": "src/ReplicatedStorage/Config/PlayerConfig.lua",
+    "indices": [
+      38,
+      0,
+      1
+    ],
+    "instancePath": "ReplicatedStorage/Config/PlayerConfig",
+    "class": "ModuleScript"
+  },
+  {
+    "file": "src/ReplicatedStorage/Config/SkillConfig.lua",
+    "indices": [
+      38,
+      0,
+      2
+    ],
+    "instancePath": "ReplicatedStorage/Config/SkillConfig",
+    "class": "ModuleScript"
+  },
+  {
+    "file": "src/ReplicatedStorage/Config/EnemyConfig.lua",
+    "indices": [
+      38,
+      0,
+      3
+    ],
+    "instancePath": "ReplicatedStorage/Config/EnemyConfig",
+    "class": "ModuleScript"
+  },
+  {
+    "file": "src/ReplicatedStorage/RIFT/Config/Balance.lua",
+    "indices": [
+      38,
+      2,
+      0,
+      0
+    ],
+    "instancePath": "ReplicatedStorage/RIFT/Config/Balance",
+    "class": "ModuleScript"
+  },
+  {
+    "file": "src/ReplicatedStorage/RIFT/Config/Player.lua",
+    "indices": [
+      38,
+      2,
+      0,
+      1
+    ],
+    "instancePath": "ReplicatedStorage/RIFT/Config/Player",
+    "class": "ModuleScript"
+  },
+  {
+    "file": "src/ReplicatedStorage/RIFT/Config/Skills.lua",
+    "indices": [
+      38,
+      2,
+      0,
+      2
+    ],
+    "instancePath": "ReplicatedStorage/RIFT/Config/Skills",
+    "class": "ModuleScript"
+  },
+  {
+    "file": "src/ReplicatedStorage/RIFT/Config/Enemies.lua",
+    "indices": [
+      38,
+      2,
+      0,
+      3
+    ],
+    "instancePath": "ReplicatedStorage/RIFT/Config/Enemies",
+    "class": "ModuleScript"
+  },
+  {
+    "file": "src/ReplicatedStorage/RIFT/Config/Progression.lua",
+    "indices": [
+      38,
+      2,
+      0,
+      4
+    ],
+    "instancePath": "ReplicatedStorage/RIFT/Config/Progression",
+    "class": "ModuleScript"
+  },
+  {
+    "file": "src/ReplicatedStorage/RIFT/Config/Game.lua",
+    "indices": [
+      38,
+      2,
+      0,
+      5
+    ],
+    "instancePath": "ReplicatedStorage/RIFT/Config/Game",
+    "class": "ModuleScript"
+  },
+  {
+    "file": "src/ServerScriptService/Bootstrap.lua",
+    "indices": [
+      39,
+      0
+    ],
+    "instancePath": "ServerScriptService/Bootstrap",
+    "class": "Script"
+  },
+  {
+    "file": "src/ServerScriptService/CombatServer.lua",
+    "indices": [
+      39,
+      1
+    ],
+    "instancePath": "ServerScriptService/CombatServer",
+    "class": "Script"
+  },
+  {
+    "file": "src/ServerScriptService/RIFT_Server.lua",
+    "indices": [
+      39,
+      2
+    ],
+    "instancePath": "ServerScriptService/RIFT_Server",
+    "class": "Script"
+  }
+]

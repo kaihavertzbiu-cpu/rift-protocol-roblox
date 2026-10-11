@@ -1,0 +1,6 @@
+* text=auto
+*.png binary
+*.jpg binary
+*.webp binary
+*.rbxl binary
+*.rbxlx text eol=lf
